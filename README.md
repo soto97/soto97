@@ -1,6 +1,6 @@
-### Alejandro Soto, Planetary Scientist and Aerospace Engineer 👋
+### [Alejandro Soto](https://www.alejandrosoto.net), Planetary Scientist and Aerospace Engineer
 
-I am a Research Scientist at the Southwest Research Institute (SwRI), where I work in the Planetary Science Directorate in Boulder, CO. I study the climate dynamics of terrestrial atmospheres through the use atmospheric models of varying complexity, including general circulation models and mesoscale models. I am also involved in instrument development, using new laser based techniques to observe atmospheres and surfaces both in situ and remotely. 
+I am a Research Scientist at the Southwest Research Institute (SwRI), where I work in the [Planetary Science Directorate in Boulder, CO](https://www.boulder.swri.edu). I study the [climate](http://alejandrosoto.net/project/atmospheric_collapse/) [dynamics](http://alejandrosoto.net/project/hydrology/) of terrestrial atmospheres through the use atmospheric models of varying complexity, including general circulation models and mesoscale models. I am also involved in instrument development, using new laser based techniques to observe atmospheres and surfaces both in situ and remotely. 
 
 Programming and Markup Languages I use:
 
