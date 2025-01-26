@@ -2,6 +2,7 @@
 
 [![ORCID](https://img.shields.io/static/v1?label=ORCID&message=0000-0002-2333-0307&color=green&style=flat&logo=orcid)](https://orcid.org/0000-0002-2333-0307)
 [![Google Scholar](https://img.shields.io/static/v1?label=&message=Google%20Scholar&color=gray&style=flat&logo=google-scholar)](https://scholar.google.com/citations?user=Tr1F6wUAAAAJ)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff)](https://bsky.app/profile/soto97.bsky.social)
 [![Twitter URL](https://img.shields.io:/static/v1?label=Twitter&message=soto97&logo=twitter&color=1C87EB&style=flat)](https://twitter.com/soto97)
 [![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&style=flat&logo=linkedin)](https://www.linkedin.com/in/soto97/)
 [![pronouns](https://img.shields.io/static/v1?label=pronouns&message=he/him&color=red&style=flat)](https://www.alejandrosoto.net)
